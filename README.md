@@ -13,3 +13,6 @@ keras 2.3.1
 4. Use train.py to train model
 5. Use predict_stomach.py to test
 6. Use evaluation_metrics.py to calculate metrics
+# models
+GC_Unet.py MVFA_Net.py MV_Net.py ResNet.py Res_CA_Net.py Unet3D.py is the model file
+please change filenames in train.py to train different models
